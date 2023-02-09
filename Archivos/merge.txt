@@ -1,0 +1,1 @@
+Ahora si se pudo subir la carpeta archivos, ya que no estaba vacia. Tenia un archivo tipo texto.
