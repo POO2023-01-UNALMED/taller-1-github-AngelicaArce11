@@ -1,0 +1,2 @@
+Ahora si se pudo subir la carpeta archivos, ya que no estaba vacia. Ya tenia un archivo tipo texto.
+NOTA: Hice el revert del commit "Punto11", porque estoy terminando el taller desde mi casa y al clonar el repositorio, se descargaron todos los cambios (el archivo merge.txt creado desde la nube) y por tanto, no saldría el conflicto del punto 13.
