@@ -1,3 +1,8 @@
 Angelica Maria Arce Parra
 19 años
 Con el curso espero lograr afianzar mis conocimientos sobre la programación y aprender sobre todo acerca del lenguaje Java. Así como reforzar el trabajo colectivo y conocer acerca de nuevas herramientas de trabajo.
+
+Ahora si se pudo subir la carpeta archivos, ya que no estaba vacia. Ya tenia un archivo tipo texto.
+NOTA: Hice el revert del commit "Punto11", porque estoy terminando el taller desde mi casa y al clonar el repositorio, se descargaron todos los cambios (el archivo merge.txt creado desde la nube) y por tanto, no saldría el conflicto del punto 13.
+
+Punto14: Es importante tener cuidado a la hora de trabajar con un archivo al mismo tiempo, porque esto puede generar conflicto al querer realizar cambios desde diferentes ramas. Es decir, que si no estamos trabajando con la última versión de un archivo, cuando queramos realizar un push, el programa nos arrojará un error. 
